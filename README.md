@@ -18,8 +18,8 @@ Para executar a análise, siga os passos abaixo:
 
 **2. Clone este repositório:**
 ```bash
-git clone <URL-DO-SEU-REPOSITORIO>
-cd <NOME-DO-SEU-REPOSITORIO>
+git clone https://github.com/LuanEvangelista/analise-precos-combustiveis-brasil.git
+cd analise-precos-combustiveis-brasil
 ```
 
 **3. Instale as dependências:**
